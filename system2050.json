@@ -9,6 +9,11 @@
   },
   "dynamic_condition": "n*T*τ > K",
   "objective": "Mesurer et stabiliser les transitions civilisationnelles",
+  "validation": {
+    "1945-1970": {"k": 1.07, "Σ": 0.74, "K": 0.25, "status": "ignition"},
+    "1990-2000": {"k": 0.99, "Σ": 0.82, "K": 0.20, "status": "ignition"},
+    "2020-2025": {"k": 2.42, "Σ": 0.74, "K": 0.55, "status": "critical"}
+  },
   "license": "CC-BY-SA 4.0",
   "doi": "10.5281/zenodo.17501970"
 }
