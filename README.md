@@ -34,3 +34,25 @@ Fournir une boussole quantitative et falsifiable pour :
   "sigma": "(E+C+S+H)/4",
   "thresholds": { "k_min": 0.8, "k_max": 1.2, "sigma_min": 0.65, "K_max": 0.4 }
 }
+📊 Validation historique (extraits 1000–2025)
+
+Période	k	Σ	K	Lecture
+
+1945–1970	1.07	0.74	0.25	✅ Ignition harmonique
+1990–2000	0.99	0.82	0.20	✅ Ignition harmonique
+2007–2015	1.64	0.77	0.35	⚠️ Surinvestissement
+2020–2025	2.42	0.74	0.55	❌ Déséquilibre critique
+
+
+📚 Référence (DOI)
+
+Zenodo : 10.5281/zenodo.17501970
+“System∩2050 v2.0 — Cadre pour l’Ignition Cognitive” (CC BY-SA 4.0).
+
+🏷️ Mots-clés
+
+system2050 · cognitive-ignition · complex-systems · civilizational-dynamics · risk-assessment
+
+📜 Licence
+
+Creative Commons BY-SA 4.0 – partage et adaptation avec attribution et partage à l’identique.
