@@ -1,0 +1,14 @@
+{
+  "model": "System∩2050 v2.0",
+  "author": "Patrick Grenier",
+  "core_equation": "k = (E*C)/(S*H)",
+  "thresholds": {
+    "equilibrium": "0.8 < k < 1.2",
+    "maturity": "Σ = (E + C + S + H)/4 > 0.65",
+    "friction": "K < 0.4"
+  },
+  "dynamic_condition": "n*T*τ > K",
+  "objective": "Mesurer et stabiliser les transitions civilisationnelles",
+  "license": "CC-BY-SA 4.0",
+  "doi": "10.5281/zenodo.17501970"
+}
