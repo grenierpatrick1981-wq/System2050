@@ -1,6 +1,10 @@
 # System∩2050 v3 — Modèle Ondulatoire
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17501970.svg)](https://doi.org/10.5281/zenodo.17501970)
+**Publication v3 (actuelle):** [Zenodo DOI 10.5281/zenodo.17583029](https://doi.org/10.5281/zenodo.17583029)  
+"System∩2050 v3.0 — Modèle Ondulatoire" (CC BY-SA 4.0)
+
+**Publication v1 (historique):** [Zenodo DOI 10.5281/zenodo.17501970](https://doi.org/10.5281/zenodo.17501970)  
+"System∩2050 v1.0 — Formule de Base"
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 > **Cadre mathématique et conceptuel pour analyser les transitions systémiques via l'équilibre dynamique entre Énergie (E), Cognition (C), Structure (S) et Harmonie (H).**
